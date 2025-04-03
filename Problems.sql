@@ -339,15 +339,6 @@ select *,
 from cte	
 
 
-
-
-/*
-17. Cross-Sell Opportunities
-Find customers who purchased product A but not product B (e.g., customers who bought AirPods but not AirPods Max).
-Challenge: Suggest cross-sell opportunities by displaying matching product categories.
-*/
-
-
 /*
 17. Top 5 Customers by Orders in Each State
 Identify the top 5 customers with the highest number of orders for each state.
